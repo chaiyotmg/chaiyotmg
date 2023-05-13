@@ -15,4 +15,5 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,java,spring,kotlin,swift,ts,py,php,mysql,mongodb,git,docker,redis,bash,linux)](https://github.com/chaiyodcymg/chaiyodcymg)
 
 Tools I am using
-[![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,postman,git,figma,firebase)](https://github.com/chaiyodcymg/chaiyodcymg)]
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,postman,git,figma,firebase)]
+(https://github.com/chaiyodcymg/chaiyodcymg)
