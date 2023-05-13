@@ -1,5 +1,8 @@
 # 👋  Hi I'm Chaiyot, Welcome to my Github Profile 👨🏻‍💻
-[![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=chaiyodcymg.Spoon-Knife&label=View%20Profile&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=red)](https://github.com/chaiyodcymg/)
+## Visitor Count
+[![Visitor Count](https://profile-counter.glitch.me/chaiyodcymg/count.svg)](https://github.com/chaiyodcymg/)
+
+
 
 ## 📈 My Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaiyodcymg&title=MultiLanguage,Commit,Followers,Repositories,Stars&no-frame=true&theme=onedark)](https://github.com/chaiyodcymg/chaiyodcymg)
