@@ -3,14 +3,14 @@
 
 ## 📈 My Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaiyodcymg&title=MultiLanguage,Commit,Followers,Repositories,Stars&theme=onedark)](https://github.com/chaiyodcymg/chaiyodcymg)
-|  [![Chaiyot GitHub stats](https://github-readme-stats.vercel.app/api?username=chaiyodcymg&show_icons=true&title_color=3366ff&icon_color=FF6347&hide_border=true)](https://github.com/chaiyodcymg/chaiyodcymg) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiyodcymg&&layout=compact&show_icons=true&langs_count=10&hide=Hack,vue,blade,starlark,shell&title_color=3366ff&hide_border=true)](https://github.com/chaiyodcymg/chaiyodcymg)  |
+|  [![Chaiyot GitHub stats](https://github-readme-stats.vercel.app/api?username=chaiyodcymg&show_icons=true&title_color=3366ff&icon_color=FF6347&hide_border=true&theme=onedark)](https://github.com/chaiyodcymg/chaiyodcymg) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiyodcymg&&layout=compact&show_icons=true&langs_count=10&hide=Hack,vue,blade,starlark,shell&title_color=3366ff&hide_border=true&theme=onedark)](https://github.com/chaiyodcymg/chaiyodcymg)  |
 | ------------- | ------------- |
  
 
 
 
 ## Top Repositories
- [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react-native-swipeable-list-view&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react-native-swipeable-list-view) [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react_native_music&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react_native_music)
+ [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react-native-swipeable-list-view&title_color=3366ff&icon_color=FF6347&theme=onedark)](https://github.com/chaiyodcymg/react-native-swipeable-list-view) [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react_native_music&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react_native_music)
 
 
 
