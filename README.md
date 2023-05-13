@@ -10,7 +10,7 @@
 
 
 ## Top Repositories
- [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react-native-swipeable-list-view&title_color=3366ff&icon_color=FF6347&theme=onedark)](https://github.com/chaiyodcymg/react-native-swipeable-list-view) [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react_native_music&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react_native_music)
+ [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react-native-swipeable-list-view&title_color=3366ff&icon_color=FF6347&hide_border=true&theme=onedark)](https://github.com/chaiyodcymg/react-native-swipeable-list-view) [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react_native_music&title_color=3366ff&icon_color=FF6347&hide_border=true&theme=onedark)](https://github.com/chaiyodcymg/react_native_music)
 
 
 
