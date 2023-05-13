@@ -9,7 +9,8 @@
 ## Top Repositories
  [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react-native-swipeable-list-view&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react-native-swipeable-list-view) [![Top repo ](https://github-readme-stats.vercel.app/api/pin/?username=chaiyodcymg&repo=react_native_music&title_color=3366ff&icon_color=FF6347)](https://github.com/chaiyodcymg/react_native_music)
 
-
+## 📈 My Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaiyodcymg)](https://github.com/chaiyodcymg/chaiyodcymg)
 
 ## 🚀 My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,nodejs,java,spring,kotlin,swift,ts,py,php,laravel,mysql,mongodb,git,docker,redis,bash,linux)](https://github.com/chaiyodcymg/chaiyodcymg)
