@@ -6,7 +6,7 @@
 | ------------- | ------------- |
  
 ## 📈 My Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaiyodcymg)](https://github.com/chaiyodcymg/chaiyodcymg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaiyodcymg&title=MultiLanguage,Commit,Followers,Repositories,Stars&theme=onedark)](https://github.com/chaiyodcymg/chaiyodcymg)
 
 
 ## Top Repositories
