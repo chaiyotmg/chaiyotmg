@@ -1,6 +1,6 @@
 # 👋  Hi I'm Chaiyot, Welcome to my Github Profile 👨🏻‍💻
 
-[![Hi](https://profile-counter.glitch.me/chaiyodcymg/count.svg)](https://github.com/chaiyodcymg/)
+[![Hi](https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Chaiyot+Mali-ngam;Back-End+Dev;Mobile+Dev)](https://github.com/chaiyodcymg/)
 
 
 ## Visitor Count
