@@ -4,8 +4,8 @@
 [![Hi](https://readme-typing-svg.herokuapp.com/?color=016EEA&height=22&width=400&vCenter=true&lines=Chaiyot+Mali-ngam;Back-End+Developer)](https://github.com/chaiyotmg/)
 
 
-## Visitor Count
-[![Visitor Count](https://profile-counter.glitch.me/chaiyotmg/count.svg)](https://github.com/chaiyotmg/)
+## Profile view
+[![Visitor Count](![](https://komarev.com/ghpvc/?username=chaiyotmg&color=green))](https://github.com/chaiyotmg/)
 
 
 
