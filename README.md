@@ -5,7 +5,7 @@
 
 
 ## Profile view
-[![Visitor Count](![](https://komarev.com/ghpvc/?username=chaiyotmg&color=green))](https://github.com/chaiyotmg/)
+[![Profile view](https://komarev.com/ghpvc/?username=chaiyotmg&color=green)](https://github.com/chaiyotmg/)
 
 
 
