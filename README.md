@@ -10,5 +10,5 @@
 
 
 ## 📈 My Stats
-![](https://github-readme-stats.vercel.app/api?username=chaiyotmg&show_icons=true)
+![]([https://github-readme-stats.vercel.app/api?username=chaiyotmg&show_icons=true](https://github.com/chaiyotmg/))
  
